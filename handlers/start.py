@@ -9,22 +9,28 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am Calls Music, an open-source bot that lets you play music in your groups.
+I Hi [OFFLINE] ꜱʜᴀᴍɪʟ 🇮🇳🇮🇳 😉️!
+
+I'm Group Music Bot Friend of @shamilnelli 😏️.
+
+I can play Music In Telegram Groups Via Voice Chat! 😌️.
+
+Made with ❤️ @redbullfed.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/CallsMusic"
+                        "⚒ How To Use This Bot", url="https://telegra.ph/How-To-Use-TGMusicsBot-03-21"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/callsmusicchat"
+                        "💬 creator", url="https://t.me/shamilnelli"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/callsmusic"
+                        "support group 🔈", url="https://t.me/redbullfed"
                     )
                 ]
             ]
