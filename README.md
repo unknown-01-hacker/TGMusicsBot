@@ -41,15 +41,9 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Credits
 
-<p align="center">
 
-  <a href="https://www.python.org">
 
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
-  </a>
-
-</p>
 
 
 
