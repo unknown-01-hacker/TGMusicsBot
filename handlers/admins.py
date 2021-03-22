@@ -21,7 +21,7 @@ async def pause(_, message: Message):
     ) or (
             callsmusic.pytgcalls.active_calls[message.chat.id] == 'paused'
     ):
-        await message.reply_text("❕ Nothing is playing. issues contact @redbullfed"")
+        await message.reply_text("❕ Nothing is playing. issues contact @redbullfed")
     else:
         callsmusic.pytgcalls.pause_stream(message.chat.id)
         await message.reply_text("⏸ Paused.issues contact @redbullfed")
