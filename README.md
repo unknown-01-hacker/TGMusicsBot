@@ -51,23 +51,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 </p>
 
-<p align="center">
 
-  <a href="https://github.com/shamilhabeebnelli/AutoMultiFilter/stargazers">
-
-    <img src="https://img.shields.io/github/stars/shamilhabeebnelli/AutoMultiFilter?style=social">
-
-  </a>
-
-  
-
-  <a href="https://github.com/shamilhabeebnelli/AutoMultiFilter/fork">
-
-    <img src="https://img.shields.io/github/forks/shamilhabeebnelli/AutoMultiFilter?label=Fork&style=social">
-
-  </a>  
-
-</p>
 
 [![Redbull](https://img.shields.io/badge/Redbull-Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/redbullfed)  
 
