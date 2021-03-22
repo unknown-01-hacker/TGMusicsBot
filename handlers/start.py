@@ -9,7 +9,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I Hi [OFFLINE] ꜱʜᴀᴍɪʟ 🇮🇳🇮🇳 😉️!
+
 
 I'm Group Music Bot Friend of @shamilnelli 😏️.
 
